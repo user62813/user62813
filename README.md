@@ -2,7 +2,7 @@
 
 ![Iksan Maulana](img/github-header-image.png)
 
-- 🔭 I m currently working
+- 🔭 I'm currently working
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate
 - ❤️ Made with love
